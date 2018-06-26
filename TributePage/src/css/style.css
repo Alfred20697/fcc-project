@@ -1,0 +1,36 @@
+#main {
+    background: #eee;
+    border: 0px solid;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 30px auto;
+    text-align: center;
+}
+
+/* #title, #img-caption {
+    text-align: center;
+} */
+
+img {
+    display: block;
+}
+
+#img-div {
+    background: #fff;
+    padding: 5px;
+}
+
+#image {
+    max-width: 100%;
+    height: auto;
+    padding: 10px;
+}
+
+#tribute-info {
+    text-align: center;
+    padding: 10px;
+}
+
+#tribute-info ul {
+    text-align: justify;
+}
