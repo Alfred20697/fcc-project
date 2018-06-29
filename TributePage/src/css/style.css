@@ -1,9 +1,12 @@
+body{
+    margin: 30px auto;
+}
+
 #main {
     background: #eee;
     border: 0px solid;
     border-radius: 5px;
     padding: 10px;
-    margin: 30px auto;
     text-align: center;
 }
 
